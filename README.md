@@ -36,7 +36,7 @@
         <tr>
             <td>Task 1</td>
             <td><a href="https://word-counter-app-pk6g.vercel.app" target="_blank">Word-counter</a></td>
-            <td><a href="https://github.com/Speedking21/Word-Counter.git="-blank">Link to Word-counter</a></td>
+            <td><a href="https://github.com/Speedking21/Word-Counter.git" target="-blank">Link to Word-counter</a></td>
         </tr>
         <tr>
             <td>Task 2</td>
